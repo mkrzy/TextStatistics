@@ -1,0 +1,16 @@
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\TextStatistics.exe
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\TextStatistics.deps.json
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\TextStatistics.runtimeconfig.json
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\TextStatistics.runtimeconfig.dev.json
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\TextStatistics.dll
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\ref\TextStatistics.dll
+D:\Users\mkrzy\Documents\dev\TextStatistics\bin\Debug\net5.0\TextStatistics.pdb
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.csproj.AssemblyReference.cache
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.AssemblyInfoInputs.cache
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.AssemblyInfo.cs
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.csproj.CoreCompileInputs.cache
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.dll
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\ref\TextStatistics.dll
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.pdb
+D:\Users\mkrzy\Documents\dev\TextStatistics\obj\Debug\net5.0\TextStatistics.genruntimeconfig.cache
